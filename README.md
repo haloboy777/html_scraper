@@ -1,4 +1,4 @@
 # HTML SCRAPERS
-Html Scraper(s) to extract internet without browser and you :P
+Html Scraper(s) to extract internet without browser and you
 
-1. Get news from Hacker news and put it in a text file
+Function : Get news from Hacker news and put it in a text file
